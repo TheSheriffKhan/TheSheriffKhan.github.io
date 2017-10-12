@@ -12,7 +12,7 @@ ul{
 }
 .body{
 	margin: 0 auto;
-	width: 70%;
+	width: 90%;
 	clear: both;	
 }
 
@@ -23,6 +23,11 @@ ul{
 a{
 	text-decoration: none;
 
+}
+
+#pricelist{
+	width: 100%;
+	height: 100%;
 }
 
 a:link, a:visited{
